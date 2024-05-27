@@ -1,12 +1,4 @@
 {
         "tarih": "Haziran 1",
-        "menu": [
-            "Açma",
-            "Kaşar Peyniri",
-            "Siyah Zeytin",
-            "Reçel Çeşitleri",
-            "Haşlanmış Yumurta",
-            "500 ml Su",
-            "Çeyrek Ekmek"
-        ]
+        "menu": "Menulistesi"
 }
